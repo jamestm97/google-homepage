@@ -1,0 +1,59 @@
+html {
+	margin: 0;
+	padding: 0;
+}
+
+.navbar {
+	margin-bottom: 10em;
+}
+
+.nav-li {
+	display: inline;
+	margin-left: 10px;
+	font-size: 18px;	
+}
+
+.nav-li a {
+	text-decoration: none;
+	color: grey;
+}
+
+.right-side {
+	float: right;
+	padding-right: 10px;
+	margin-right: 10px;
+}
+
+img {
+	display: block;
+	margin: auto;
+	width: 700px;
+}
+
+form {
+	text-align: center;
+	margin-top: 50px;
+}
+
+input {
+	padding: 10px 500px 10px 20px;
+}
+
+.btn-ul {
+	text-align: center;
+}
+
+.btn-li {
+	list-style-type: none;
+	display: inline;
+	padding: 10px;
+}
+
+button {
+	padding: 10px;
+}
+
+.bottom {
+	
+}
+
